@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Nick 👋
 
 <div align="center">
   <img width="200px" src="https://media.giphy.com/media/Qc0BxWM9TxljvJug2x/giphy.gif"></img>
@@ -12,9 +12,8 @@
 
 ### Thanks you for stopping by.
 
-😄 [Here](https://nummyrice.github.io/) are some projects I'm working on.
-🥁 Come jam with me. I play the drums.
-
+- 😄 [Here](https://nummyrice.github.io/) are some projects I'm working on.
+- 🥁 Come jam with me. I play the drums.
 
 
 
