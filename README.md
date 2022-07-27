@@ -8,7 +8,7 @@
 
 ---
 ### Hi there, I'm Nick 👋
-### Thanks you for stopping by.
+### Thank you for stopping by.
 
 😄 [Here](https://nummyrice.github.io/) are some projects I'm working on.
 🥁 Come jam with me. I play drums.
